@@ -1,10 +1,10 @@
 - 👋 Hi, I’m sudhanshu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java, react, DSA
-- 💞️ I’m looking to collaborate on 
+- 🌱 currently learning java, react, DSA
+- 💞️ Seeking Collaboration: Open Source Projects
+- 🤝 Looking For: Help with Complex UI Challenges
 - 📫 reach me at 07sk777@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Enjoy solving complex problems
 
 <!---
 sudhanshu2207/sudhanshu2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
